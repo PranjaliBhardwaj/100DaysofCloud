@@ -1,5 +1,8 @@
-##Understand effective cost management in Azure
+## Understand effective cost management in Azure
+
 Its Day: 2 Github blog on cloud computing.
+
+
 ![WhatsApp Image 2024-01-18 at 12 19 53_b8f720c9](https://github.com/PranjaliBhardwaj/100DaysofCloud/assets/146981751/3153ad70-03ac-49e1-ae69-96dafd29f84d)
 
 Sharing our learnings, Today we learn about :
